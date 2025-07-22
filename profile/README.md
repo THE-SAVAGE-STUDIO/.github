@@ -5,7 +5,7 @@
   ### Building the Future of Web3 Gaming
 
   [![Twitter Follow](https://img.shields.io/twitter/follow/goalpost_gg?style=social)](https://twitter.com/goalpost_gg)
-  [![Telegram](https://img.shields.io/badge/Telegram-Join-26A5E4)](https://t.me/savagedruid)
+  [![Telegram](https://img.shields.io/badge/Telegram-Join-26A5E4)](https://t.me/druidao)
   [![Website](https://img.shields.io/badge/Website-Visit-blue)](https://savagestud.io)
 
   Building revolutionary blockchain gaming experiences through strategic wagering, provably fair mechanics, and instant settlements.
