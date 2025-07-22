@@ -41,7 +41,7 @@ Exclusive revenue-sharing NFT collection:
 - **[Main Website](https://savagestud.io)** - Company portal and updates
 - **[GOALPOST.GG](https://goalpost.gg)** - Strategic wagering platform
 - **[Druids](https://druids.vip)** - Revenue-sharing NFT collection
-- **[Documentation](https://docs.savagestud.io)** - Technical guides and API docs
+- **[Documentation](https://info.goalpost.gg)** - Technical guides and API docs
 
 ## 💼 Business Model
 
@@ -54,9 +54,9 @@ Our innovative approach combines:
 ## 🤝 Join Our Community
 
 - **[Twitter](https://twitter.com/goalpost_gg)** - Latest updates and announcements
-- **[Telegram](https://t.me/savagedruid)** - Active community discussion
-- **[Discord](https://discord.gg/savagedruid)** - Developer collaboration
-- **[Medium](https://medium.com/@savagedruid)** - Deep dive articles
+- **[Telegram](https://t.me/druidao)** - Active community discussion
+- **[Discord](https://discord.gg/goalpost)** - Developer collaboration
+- **[Medium](https://medium.com/@savagestudio)** - Deep dive articles
 
 ## 📊 Platform Metrics
 
